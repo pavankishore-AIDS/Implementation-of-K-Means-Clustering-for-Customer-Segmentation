@@ -67,6 +67,6 @@ DATA.INFO()
 [4.DOCX](https://github.com/pavankishore-AIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/files/8876124/4.DOCX)
 
 
-
+F
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
