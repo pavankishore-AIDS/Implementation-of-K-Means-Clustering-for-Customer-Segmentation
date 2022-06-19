@@ -60,13 +60,13 @@ plt.title("Customer Segments")
 
 ## Output:
 DATA.HEAD()
-[1.DOCX](https://github.com/pavankishore-AIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/files/8876116/1.DOCX)
+![1](https://user-images.githubusercontent.com/94154941/174484578-d2d760ae-05e0-460a-bcdb-358546e9a2ab.png)
+
 DATA.INFO()
-[2.DOCX](https://github.com/pavankishore-AIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/files/8876119/2.DOCX)
-[3.DOCX](https://github.com/pavankishore-AIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/files/8876122/3.DOCX)
-[4.DOCX](https://github.com/pavankishore-AIDS/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/files/8876124/4.DOCX)
+![2](https://user-images.githubusercontent.com/94154941/174484585-eb307c18-81d4-4bfe-b12e-ec015d86217d.png)
+![3](https://user-images.githubusercontent.com/94154941/174484589-c8bb73da-62c7-45cb-bc42-c138bba481bd.png)
+![4](https://user-images.githubusercontent.com/94154941/174484592-6cedb00b-dd86-4cd9-bbc6-94569fc3e9f0.png)
 
 
-F
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
